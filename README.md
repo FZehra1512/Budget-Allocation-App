@@ -1,3 +1,9 @@
+# Project ScreenShots
+
+![bugdet_allocation](https://github.com/FZehra1512/Budget-Allocation-App/assets/142977761/5ff40299-217e-48b7-8242-e48020cb98f1)
+![final_page](https://github.com/FZehra1512/Budget-Allocation-App/assets/142977761/ae838e1f-40b4-4c46-af43-23c27042bda2)
+![currency_change](https://github.com/FZehra1512/Budget-Allocation-App/assets/142977761/675b40f9-e2cb-4022-86ab-c7a37b64910a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

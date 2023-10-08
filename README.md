@@ -1,4 +1,18 @@
-# Project ScreenShots
+# Budget Allocation App
+This project is a React-based solution for efficient company budget management. Easily allocate funds to departments, track total, remaining, and spent budgets, and switch between currencies for global operations. The app includes user-friendly buttons for incremental budget adjustments, offering both speed and precision in financial decision-making. Ideal for businesses of all sizes.
+
+## Contributions
+
+This project was initially based on the foundation provided by the "Developing Front-End Apps with React" course by IBM on Coursera. While the core structure and initial codebase were part of the course, I've made significant contributions and added the following features to enhance its functionality:
+
+- Currency Conversion
+- Budget Adjustment
+- Custom Department Budget Modifications
+
+I'm grateful for the educational resources that helped me get started, and I'm excited to share the improved version of this app with the community. Feel free to explore the code, contribute, or provide feedback.
+
+
+## Project ScreenShots
 
 ![bugdet_allocation](https://github.com/FZehra1512/Budget-Allocation-App/assets/142977761/5ff40299-217e-48b7-8242-e48020cb98f1)
 ![final_page](https://github.com/FZehra1512/Budget-Allocation-App/assets/142977761/ae838e1f-40b4-4c46-af43-23c27042bda2)
